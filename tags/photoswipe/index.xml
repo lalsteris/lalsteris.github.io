@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photoswipe on Leigh Alsteris</title><link>https://www.alsteris.com/tags/photoswipe/</link><description>Recent content in Photoswipe on Leigh Alsteris</description><generator>Hugo</generator><language>en</language><managingEditor>youremail@domain.com (Some Person)</managingEditor><webMaster>youremail@domain.com (Some Person)</webMaster><lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://www.alsteris.com/tags/photoswipe/index.xml" rel="self" type="application/rss+xml"/><item><title>Photoswipe Gallery Sample</title><link>https://www.alsteris.com/post/2017-03-20-photoswipe-gallery-sample/</link><pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author><guid>https://www.alsteris.com/post/2017-03-20-photoswipe-gallery-sample/</guid><description>&lt;p>Beautiful Hugo adds a few custom shortcodes created by &lt;a href="https://www.liwen.id.au/heg/">Li-Wen Yip&lt;/a> and &lt;a href="https://github.com/GjjvdBurg/HugoPhotoSwipe">Gert-Jan van den Berg&lt;/a> for making galleries with &lt;a href="https://photoswipe.com">PhotoSwipe&lt;/a> .&lt;/p>
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+ 
+ &lt;link rel="stylesheet" href="https://www.alsteris.com/css/hugo-easy-gallery.css" />
+ &lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://www.alsteris.com//img/hexagon-thumb.jpg');">
+ &lt;img itemprop="thumbnail" src="https://www.alsteris.com/img/hexagon-thumb.jpg" alt="/img/hexagon-thumb.jpg"/>
+ &lt;/div>
+ &lt;a href="https://www.alsteris.com/img/hexagon.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+ &lt;/div>
+
+ 
+ 
+ &lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://www.alsteris.com//img/sphere-thumb.jpg');">
+ &lt;img itemprop="thumbnail" src="https://www.alsteris.com/img/sphere-thumb.jpg" alt="Sphere"/>
+ &lt;/div>
+ &lt;a href="https://www.alsteris.com/img/sphere.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;figcaption>
+ &lt;p>Sphere&lt;/p>
+ &lt;/figcaption>
+ &lt;/figure>
+ &lt;/div>
+
+ 
+ 
+ &lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://www.alsteris.com//img/triangle-thumb.jpg');">
+ &lt;img itemprop="thumbnail" src="https://www.alsteris.com/img/triangle-thumb.jpg" alt="This is a long comment about a triangle"/>
+ &lt;/div>
+ &lt;a href="https://www.alsteris.com/img/triangle.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;figcaption>
+ &lt;p>Triangle&lt;/p>
+ &lt;/figcaption>
+ &lt;/figure>
+ &lt;/div>
+
+
+&lt;/div></description></item></channel></rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown on Leigh Alsteris</title><link>https://www.alsteris.com/tags/markdown/</link><description>Recent content in Markdown on Leigh Alsteris</description><generator>Hugo</generator><language>en</language><managingEditor>youremail@domain.com (Some Person)</managingEditor><webMaster>youremail@domain.com (Some Person)</webMaster><lastBuildDate>Fri, 20 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://www.alsteris.com/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Test markdown</title><link>https://www.alsteris.com/post/2015-02-20-test-markdown/</link><pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author><guid>https://www.alsteris.com/post/2015-02-20-test-markdown/</guid><description>&lt;p>You can write regular &lt;a href="https://markdowntutorial.com/">markdown&lt;/a> here and &lt;a href="https://gohugo.io">Hugo&lt;/a> will automatically convert it to a nice webpage. I strongly encourage you to &lt;a href="https://markdowntutorial.com/">take 5 minutes to learn how to write in markdown&lt;/a> - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.&lt;/p>
+&lt;p>&lt;strong>Here is some bold text&lt;/strong>&lt;/p>
+&lt;h2 id="here-is-a-secondary-heading">Here is a secondary heading&lt;/h2>
+&lt;p>Here&amp;rsquo;s a useless table:&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Number&lt;/th>
+ &lt;th style="text-align: left">Next number&lt;/th>
+ &lt;th style="text-align: left">Previous number&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Five&lt;/td>
+ &lt;td style="text-align: left">Six&lt;/td>
+ &lt;td style="text-align: left">Four&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Ten&lt;/td>
+ &lt;td style="text-align: left">Eleven&lt;/td>
+ &lt;td style="text-align: left">Nine&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Seven&lt;/td>
+ &lt;td style="text-align: left">Eight&lt;/td>
+ &lt;td style="text-align: left">Six&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Two&lt;/td>
+ &lt;td style="text-align: left">Three&lt;/td>
+ &lt;td style="text-align: left">One&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>How about a yummy crepe?&lt;/p></description></item></channel></rss>
